@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Lexend-Bold";
+    src: local('Lexend-Bold'), url(./assets/fonts/Lexend-Bold.woff) format('woff');
+}
+
+@font-face {
+    font-family: "Lexend-SemiBold";
+    src: local('Lexend-SemiBold'), url(./assets/fonts/Lexend-SemiBold.woff) format('woff');
+}
+
+@font-face {
+    font-family: "Lexend-Regular";
+    src: local('Lexend-Regular'), url(./assets/fonts/Lexend-Regular.woff) format('woff');
+}
+
+@font-face {
+    font-family: "Lexend-Light";
+    src: local('Lexend-Light'), url(./assets/fonts/Lexend-Light.woff) format('woff');
+}
